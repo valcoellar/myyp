@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myyp/static/css/main.756af292.css",
+    "main.js": "/myyp/static/js/main.33b3d6d2.js",
+    "static/js/787.4166f29e.chunk.js": "/myyp/static/js/787.4166f29e.chunk.js",
+    "static/media/github.png": "/myyp/static/media/github.f951448033dd5b038989.png",
+    "index.html": "/myyp/index.html",
+    "main.756af292.css.map": "/myyp/static/css/main.756af292.css.map",
+    "main.33b3d6d2.js.map": "/myyp/static/js/main.33b3d6d2.js.map",
+    "787.4166f29e.chunk.js.map": "/myyp/static/js/787.4166f29e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.33b3d6d2.js"
+  ]
+}
